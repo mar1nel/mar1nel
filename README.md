@@ -1,4 +1,4 @@
-## <img src="https://github.com/mar1nel/mar1nel/assets/110196455/1be6de5d-01e3-42cd-a0ec-f9b3542f247f" title="React" alt="" width="35"/> Silliest GitHub Page `mar1nel`
+ ## <!-- <img align="" src="https://github.com/mar1nel/mar1nel/assets/110196455/3326fc73-20f6-4f20-b91a-0d11e9d38946" title="React" alt="" width="40"/> --> 💚 Silliest GitHub Page `mar1nel` 
 
 <div id="header" align="start" style="border: 2px solid green;">
   <img src="https://github.com/mar1nel/mar1nel/assets/110196455/77c242f5-c1e6-404e-ab9e-cb7e9422f4ee" width="500"/>
@@ -12,7 +12,7 @@ With a passion for [React](https://react.dev/), Web Dev and Design, I believe in
 sense of whimsy into every line of code I write and every design I create. \
 Join me on this journey as we explore the frontiers of Web. <img src="" title="React" alt="" width="20"/>
 
-<h3> <img align="center" src="https://github.com/mar1nel/mar1nel/assets/110196455/3326fc73-20f6-4f20-b91a-0d11e9d38946" title="React" alt="" width="60"/> Streak Stats :</h3>
+<h3> ✅ Streak & Contribution Stats :</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mar1nel&theme=hacker&card_width=500)](https://git.io/streak-stats)
   
