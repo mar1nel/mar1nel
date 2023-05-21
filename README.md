@@ -1,9 +1,9 @@
- ## <!-- <img align="" src="https://github.com/mar1nel/mar1nel/assets/110196455/3326fc73-20f6-4f20-b91a-0d11e9d38946" title="React" alt="" width="40"/> --> 💚 Silliest GitHub Page `mar1nel` 
+ ## <!-- <img align="" src="https://github.com/mar1nel/mar1nel/assets/110196455/3326fc73-20f6-4f20-b91a-0d11e9d38946" title="React" alt="" width="40"/> --> ♻ Silliest GitHub Page `mar1nel` 
 
-<div id="header" align="start" style="border: 2px solid green;">
+<!-- <div id="header" align="start" style="border: 2px solid green;">
   <img src="https://github.com/mar1nel/mar1nel/assets/110196455/77c242f5-c1e6-404e-ab9e-cb7e9422f4ee" width="500"/>
 </div>
-
+ -->
 <!-- <br>![pngegg (3)](https://github.com/mar1nel/mar1nel/assets/110196455/1be6de5d-01e3-42cd-a0ec-f9b3542f247f) -->
 <!-- ![2303274-jake_long_by_blakmanta-removebg-preview](https://github.com/mar1nel/mar1nel/assets/110196455/3326fc73-20f6-4f20-b91a-0d11e9d38946) -->
 
