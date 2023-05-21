@@ -1,4 +1,4 @@
-## <img align="center" src="https://github.com/mar1nel/mar1nel/assets/110196455/1be6de5d-01e3-42cd-a0ec-f9b3542f247f" title="React" alt="" width="40"/> Silliest GitHub Page `mar1nel`
+## <img src="https://github.com/mar1nel/mar1nel/assets/110196455/1be6de5d-01e3-42cd-a0ec-f9b3542f247f" title="React" alt="" width="35"/> Silliest GitHub Page `mar1nel`
 
 <div id="header" align="start" style="border: 2px solid green;">
   <img src="https://github.com/mar1nel/mar1nel/assets/110196455/77c242f5-c1e6-404e-ab9e-cb7e9422f4ee" width="500"/>
