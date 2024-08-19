@@ -7,12 +7,16 @@
 <!-- <br>![pngegg (3)](https://github.com/mar1nel/mar1nel/assets/110196455/1be6de5d-01e3-42cd-a0ec-f9b3542f247f) -->
 <!-- ![2303274-jake_long_by_blakmanta-removebg-preview](https://github.com/mar1nel/mar1nel/assets/110196455/3326fc73-20f6-4f20-b91a-0d11e9d38946) -->
 
-<p>I just craft <a href="https://react.dev/">React</a> based projects, this inspires me.</p>
-<p>Occasionally, I dabble in design, sharing my stuff on <a href="https://www.behance.net/ababiivicu">Behance</a>.</p>
-I don't stress, can not care less, just slowly climbing the professional ladder.
-<!-- <img src="" title="React" alt="" width="20"/> -->
+<!-- <p>I just craft <a href="https://react.dev/">React</a> based projects, this inspires me.</p> -->
+<!-- I'll never add a "hobby" section to my resume. Awesome guys, I'm glad you like playing guitar, cycling, reading books and watching movies, but hey! -->
+<p>Occasionally, I do some web/mobile ui/ux designs, sharing my stuff (but not everytime) on <a href="https://www.behance.net/ababiivicu">Behance</a> .</p>
+<p>Big friends with <a href="https://react.dev/">React</a> even if we fight sometimes, but we still chillin togehter.</p>
+<p>Blockchain amateur that genuinely is just unlucky with investing. But one day I'll build something great on mistakes I've made.</p>
+<!-- “Better three hours too soon than a minute too late.” — William Shakespeare, that's why every junior developer is building a to-do list and online alarm clock --> 
+<!-- <img src="" title="React" alt="" width="20"/> --> 
 
-&nbsp;
+
+<!-- &nbsp; -->
 
 <div align="start">
   <h3> ⚙ Web Development Tech:</h3>&nbsp;
@@ -39,8 +43,8 @@ I don't stress, can not care less, just slowly climbing the professional ladder.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mar1nel&theme=hacker&card_width=500)](https://git.io/streak-stats)
   
-### 📈 GitHub Journey:
+<!-- ### 📈 GitHub Journey:
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mar1nel&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mar1nel&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br>
