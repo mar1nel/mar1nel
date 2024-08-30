@@ -10,8 +10,8 @@
 <!-- <p>I just craft <a href="https://react.dev/">React</a> based projects, this inspires me.</p> -->
 <!-- I'll never add a "hobby" section to my resume. Awesome guys, I'm glad you like playing guitar, cycling, reading books and watching movies, but hey! -->
 <p>Occasionally, I do some web/mobile ui/ux designs, sharing my stuff (but not everytime) on <a href="https://www.behance.net/ababiivicu">Behance</a> .</p>
-<p>Big friends with <a href="https://react.dev/">React</a> even if we fight sometimes, but we still chillin togehter.</p>
-<p>Blockchain amateur that genuinely is just unlucky with investing. But one day I'll build something great on mistakes I've made.</p>
+<p>Big friends with <a href="https://react.dev/">React</a> even if we fight sometimes, but we still chillin together.</p>
+<p>Blockchain Solana/ TON amateur, that genuinely love Web3 concepts. One day I'll build something great on mistakes I've made.</p>
 <!-- “Better three hours too soon than a minute too late.” — William Shakespeare, that's why every junior developer is building a to-do list and online alarm clock --> 
 <!-- <img src="" title="React" alt="" width="20"/> --> 
 
